@@ -36,7 +36,7 @@ module.exports = {
   ticketCategory: "CATEGORY_ID_HERE",
 };
 ```
-
+     
 ### 4️⃣ Chạy bot:
 
 ```sh
