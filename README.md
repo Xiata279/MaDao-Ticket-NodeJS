@@ -59,7 +59,7 @@ Dự án này được cấp phép theo [MIT License](LICENSE).
 
 ## 💻 Lập trình viên :
 - chez1s
-- Xio279
+- Xiata279
 
 ---
 
