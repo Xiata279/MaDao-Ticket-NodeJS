@@ -1,7 +1,7 @@
 # Ma Đạo Ticket - Discord Bot
 
 Ma Đạo Store Ticket Bot là bot hỗ trợ quản lý ticket trên Discord, giúp người dùng tạo ticket nhanh chóng để mua hàng hoặc yêu cầu hỗ trợ.
-
+  
 ## 🚀 Tính năng
 
 - Hiển thị embed giới thiệu về ticket với các nút bấm tạo ticket.
